@@ -1,7 +1,7 @@
 # DESCRIPTION:
-Project1_Q1.py - Detecting the ball and estimating the trajectory of ball using SLS.
-Project2_Q2.1.py - Calculating the covariance matrix, surface normal and its magnitude.
-Project2_Q2.2.py - Surface fitting using SLS, TLS and RANSAC.
+### Project1_Q1.py - Detecting the ball and estimating the trajectory of ball using SLS.
+### Project2_Q2.1.py - Calculating the covariance matrix, surface normal and its magnitude.
+### Project2_Q2.2.py - Surface fitting using SLS, TLS and RANSAC.
 
 # ENVIRONMENT USED:
 JetBrains PyCharm Community Edition
