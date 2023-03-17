@@ -1,6 +1,6 @@
 # DESCRIPTION:
-Project2_Q1.py - Camera Pose Estimation using Homography\
-Project2_Q2.1.py - Image Stitching
+### Project2_Q1.py - Camera Pose Estimation using Homography\
+### Project2_Q2.1.py - Image Stitching
 
 # ENVIRONMENT USED:
 JetBrains PyCharm Community Edition
