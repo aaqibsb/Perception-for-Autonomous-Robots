@@ -1,7 +1,7 @@
 ## DESCRIPTION:
-proj4_artroom.py - Stereo Vision pipeline for artroom dataset\
-proj4_chess.py - Stereo Vision pipeline for chess dataset\
-proj4_ladder.py - Stereo Vision pipeline for ladder dataset
+#### proj4_artroom.py - Stereo Vision pipeline for artroom dataset
+#### proj4_chess.py - Stereo Vision pipeline for chess dataset
+#### proj4_ladder.py - Stereo Vision pipeline for ladder dataset
 
 ## ENVIRONMENT USED:
 JetBrains PyCharm Community Edition
