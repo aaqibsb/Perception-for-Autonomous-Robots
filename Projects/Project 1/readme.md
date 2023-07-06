@@ -1,12 +1,12 @@
-# DESCRIPTION:
-### Project1_Q1.py - Detecting the ball and estimating the trajectory of ball using SLS.
-### Project2_Q2.1.py - Calculating the covariance matrix, surface normal and its magnitude.
-### Project2_Q2.2.py - Surface fitting using SLS, TLS and RANSAC.
+## DESCRIPTION:
+#### Project1_Q1.py - Detecting the ball and estimating the trajectory of ball using SLS.
+#### Project2_Q2.1.py - Calculating the covariance matrix, surface normal and its magnitude.
+#### Project2_Q2.2.py - Surface fitting using SLS, TLS and RANSAC.
 
-# ENVIRONMENT USED:
+## ENVIRONMENT USED:
 JetBrains PyCharm Community Edition
 
-# LIBRARIES USED:
+## LIBRARIES USED:
 Install the following libraries through the Pycharm IDE. Type the library name and if the IDE doesn't detect it, there will be a yellow line below the library name. Hover over the yellow line and option will pop up to install the library/package.
 
 1. cv2
@@ -15,11 +15,11 @@ Install the following libraries through the Pycharm IDE. Type the library name a
 4. matplotlib
 
 
-# GETTING STARTED:
+## GETTING STARTED:
 Install the necessary libraries to have the code set up for running.
 
 
-# RUNNING THE CODE:
+## RUNNING THE CODE:
 Click the play button on the top right corner or use the shortcut (Shift+F10).
 
 ## INSTRUCTIONS:
