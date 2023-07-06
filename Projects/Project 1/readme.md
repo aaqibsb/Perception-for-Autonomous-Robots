@@ -22,7 +22,7 @@ Install the necessary libraries to have the code set up for running.
 ## RUNNING THE CODE:
 Click the play button on the top right corner or use the shortcut (Shift+F10).
 
-## INSTRUCTIONS:
+### INSTRUCTIONS:
 Project1_Q1.py - Once the script runs, the video will pop up in a window. After the ball exits the frame, press 'd' to close the window. The trajectory plot will be displayed and equation of curve as well as landing spot will be outputted in the terminal.
 
 Project2_Q2.2.py - On line 94, change "pc1" to "pc2" or viceversa to switch between datasets. To run TLS, SLS or RANSAC algorithm, it is important to comment out the respective graph plotting of other algorithms, i.e only one algorithm should be plotted at a time. Each section of the plotting is segregated by comments from line 115. This issue will be further rectified later. 
