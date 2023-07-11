@@ -1,8 +1,6 @@
-# ENPM673 - Perception for Autonomous Robots
- 
 ## Underwater Image Restoration 
 
-## Team Members
+#### Team Members
 * Sandip Sharan Senthil Kumar - Sandip26 - 119340196
 * Sandeep Thalapanane - sandeept - 119402535
 * Shreejay Badshah - Sbadshah - 119224564
