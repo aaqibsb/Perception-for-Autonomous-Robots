@@ -10,8 +10,7 @@
 * Sourang Sri Hari - sourang - 119074947
 
 
-#### Environment used - VS code
-<br />
+### Environment used - VS code
 
 ## Installation of Dependecies
 
